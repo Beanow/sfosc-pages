@@ -3,128 +3,203 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sfosc.org/principles/</loc>
-    <lastmod>2018-11-28T15:40:54-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/about/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/business-models/free-software-island/</loc>
-    <lastmod>2018-12-06T11:29:21-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/book/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/sfosc-book/introduction/</loc>
-    <lastmod>2018-11-29T12:13:12-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/social-contracts/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/business-models/loose-open-core/</loc>
-    <lastmod>2018-12-06T11:45:36-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/business-models/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/sfosc-book/motivations/</loc>
-    <lastmod>2018-11-29T12:13:12-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/principles/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/business-models/tight-open-core/</loc>
-    <lastmod>2018-12-06T12:01:01-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/book/introduction/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/sfosc-book/conception/</loc>
-    <lastmod>2018-11-29T12:13:12-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/book/motivations/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/business-models/</loc>
-    <lastmod>2018-11-29T12:13:04-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/book/conception/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/business-models/dual-licensing/</loc>
-    <lastmod>2018-12-06T12:15:31-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/book/institutions/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/sfosc-book/institutions/</loc>
-    <lastmod>2018-11-29T12:13:12-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/business-models/as-a-service/</loc>
-    <lastmod>2018-12-06T12:27:40-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/blog/news/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/sfosc-book/rawls_for_foss/</loc>
-    <lastmod>2018-11-29T12:13:12-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/blog/releases/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/business-models/donations/</loc>
-    <lastmod>2018-12-06T12:49:15-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/book/rawls_for_foss/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/sfosc-book/governance/</loc>
-    <lastmod>2018-11-29T12:13:12-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/book/governance/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/business-models/support/</loc>
-    <lastmod>2018-12-06T14:37:03-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/book/contribution_and_distribution/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/sfosc-book/contribution_and_distribution/</loc>
-    <lastmod>2018-11-29T12:13:12-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/book/business-models/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/business-models/free-software-product/</loc>
-    <lastmod>2018-12-06T14:48:18-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/book/the_way_forward/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/sfosc-book/business-models/</loc>
-    <lastmod>2018-11-29T12:13:12-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/blog/2019/07/20/sfosc-has-a-new-documentation-theme/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/sfosc-book/the_way_forward/</loc>
-    <lastmod>2018-11-29T12:13:12-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/blog/2019/07/20/july-2019-documentation/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/sfosc-book/</loc>
-    <lastmod>2018-11-29T12:13:12-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/business-models/none/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/social-contracts/</loc>
-    <lastmod>2018-11-29T12:12:57-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/business-models/support/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/social-contracts/donation/</loc>
-    <lastmod>2018-11-29T12:13:32-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/business-models/tight-open-core/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/</loc>
-    <lastmod>2018-11-29T11:01:38-08:00</lastmod>
+    <loc>https://beanow.github.io/sfosc-pages/docs/business-models/as-a-service/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/categories/</loc>
-    <priority>0</priority>
+    <loc>https://beanow.github.io/sfosc-pages/docs/about/code_of_conduct/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.org/tags/</loc>
-    <priority>0</priority>
+    <loc>https://beanow.github.io/sfosc-pages/docs/about/contributing/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beanow.github.io/sfosc-pages/docs/business-models/donations/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beanow.github.io/sfosc-pages/docs/business-models/dual-licensing/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beanow.github.io/sfosc-pages/docs/business-models/free-software-island/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beanow.github.io/sfosc-pages/docs/business-models/free-software-product/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beanow.github.io/sfosc-pages/docs/business-models/loose-open-core/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beanow.github.io/sfosc-pages/docs/about/membership/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beanow.github.io/sfosc-pages/docs/about/social_contract/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beanow.github.io/sfosc-pages/docs/about/trademark/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beanow.github.io/sfosc-pages/docs/about/voting/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beanow.github.io/sfosc-pages/docs/social-contracts/donation/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beanow.github.io/sfosc-pages/blog/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beanow.github.io/sfosc-pages/community/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beanow.github.io/sfosc-pages/about/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beanow.github.io/sfosc-pages/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beanow.github.io/sfosc-pages/search/</loc>
+    <lastmod>2019-07-20T11:34:41-04:00</lastmod>
   </url>
   
 </urlset>
